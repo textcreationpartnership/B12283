@@ -1,0 +1,440 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A pleasant new song that plainely doth show that al are beggers, both high and low, a meane estate let none despise for tis not money that makes a man wise to the tune of Cuckolds all a row / Humfrey Crowch.</title>
+            <author>Crouch, Humphrey, fl. 1635-1671.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1640</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12283</idno>
+            <idno type="STC">STC 6074a.4</idno>
+            <idno type="STC">ESTC S2553</idno>
+            <idno type="EEBO-CITATION">24323381</idno>
+            <idno type="OCLC">ocm 24323381</idno>
+            <idno type="VID">178618</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B12283)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178618)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1849:21b)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A pleasant new song that plainely doth show that al are beggers, both high and low, a meane estate let none despise for tis not money that makes a man wise to the tune of Cuckolds all a row / Humfrey Crowch.</title>
+                  <author>Crouch, Humphrey, fl. 1635-1671.</author>
+               </titleStmt>
+               <extent>1 broadside : ill.  </extent>
+               <publicationStmt>
+                  <publisher>[Pr]inted by M.F. for R. Harper, and are to be sold at the Bible and [?] in Smithfield,</publisher>
+                  <pubPlace>[S.l.] :</pubPlace>
+                  <date>[1640?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication suggested by STC (2nd ed.).</note>
+                  <note>Without music.</note>
+                  <note>Bound and filmed with STC 5129.5, 6791.5, 6792.3, 6921.5 and  10611.7.</note>
+                  <note>Imperfect: torn, with some loss of print.</note>
+                  <note>Reproduction of original in the Manchester Central Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:178618:1"/>
+            <argument>
+               <lg>
+                  <l>A pleaſant new ſong that plainely doth ſhow,</l>
+                  <l>that al are Beggers, both high and low,</l>
+                  <l>A meane eſtate let none deſpiſe:</l>
+                  <l>for tis not Money that makes a man wiſe.</l>
+               </lg>
+            </argument>
+            <opener>To the tune of Cuckolds all a row.</opener>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>COme ceaſe your ſongs of Cuckolds row</l>
+                  <l>for now tis ſomthing ſtale,</l>
+                  <l>And let vs ſing of Beggers now,</l>
+                  <l>For thats in generall,</l>
+                  <l>In City and in Country,</l>
+                  <l>men from high to low,</l>
+                  <l>In each degrée or quality,</l>
+                  <l>
+                     <hi>Are Beggers all a row.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>How many men are there that liue,</l>
+                  <l>and doe no good at all?</l>
+                  <l>And ſuch had rather ſpend, then giue</l>
+                  <l>to them that liue in thrall,</l>
+                  <l>Loſ<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> a hundred at a caſt,</l>
+                  <l>as much at the next throw,</l>
+                  <l>But what comes of them at the laſt,</l>
+                  <l>
+                     <hi>Beggers all a row.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Some countrey Lads that backward thriues,</l>
+                  <l>left with a large eſtate,</l>
+                  <l>Weary of thoſe countrey liues,</l>
+                  <l>they haue enough of that:</l>
+                  <l>The countrey then the City courts,</l>
+                  <l>a countrey life's too low,</l>
+                  <l>For here are many tricks and ſports,</l>
+                  <l>
+                     <hi>makes Beggers all a row.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Firſt for a Coach and horſes,</l>
+                  <l>theres one reuerſion flies,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>ond<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> new Faſhions,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>nities,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Maid and Man,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>e growes low,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>ch for a Sedan,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 line">
+                        <desc>〈1 line〉</desc>
+                     </gap>
+                  </l>
+               </lg>
+               <lg>
+                  <l>I ſaw a handſome proper youth,</l>
+                  <l>and he was wonderous fine,</l>
+                  <l>But when I vnderſtood the truth,</l>
+                  <l>his caſe was worſe then mine,</l>
+                  <l>On wine and Drabs, he did all ſpend,</l>
+                  <l>which wrought his ouerthrow,</l>
+                  <l>So fortune plac'd him in the end,</l>
+                  <l>
+                     <hi>with Beggers all a row,</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>I haue a Miſtris of mine owne,</l>
+                  <l>that beares a lofty ſpirit,</l>
+                  <l>Though gold and ſiluer ſhe hath none</l>
+                  <l>nor any good demerit,</l>
+                  <l>Yet will ſhe braue it with the beſt,</l>
+                  <l>where euer ſhe doth goe,</l>
+                  <l>And be at euery Goſſips feaſt,</l>
+                  <l>
+                     <hi>with Beggers all a row.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>But of all Beggers he's the worſt,</l>
+                  <l>that doth complaine he's poore:</l>
+                  <l>And euermore ſhall be accurſt,</l>
+                  <l>that ſtarues in midſt of ſtore,</l>
+                  <l>Let Vſurers therefore take heed,</l>
+                  <l>leaſt to the Deuill they goe,</l>
+                  <l>That doe complaine before they neede,</l>
+                  <l>
+                     <hi>with Beggers all a row</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Gilbert loues the Ale-<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ouſe well,</l>
+                  <l>Dick will not be beh<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd,</l>
+                  <l>Iane and Tib, and bonny Nell,</l>
+                  <l>are to each other kind,</l>
+                  <l>For two full pots, come let vs ioyn<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>although our ſtates be low,</l>
+                  <l>My money <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ll ſhall goe with thin<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <hi>Begge<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> 
+                        <gap reason="illegible" extent="2 words">
+                           <desc>〈◊◊〉</desc>
+                        </gap> 
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ow.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <pb facs="tcp:178618:1" rendition="simple:additions"/>
+               <head>The ſecond part,</head>
+               <opener>To the ſame tune.</opener>
+               <p>
+                  <figure/>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>IN faith my Landlord is not paid,</l>
+                  <l>and what care I for that,</l>
+                  <l>My Grannam ſhe hath often ſaid,</l>
+                  <l>that care will kill a Cat,</l>
+                  <l>Come fill vs tother Pot good Boy,</l>
+                  <l>and then introth wéele goe,</l>
+                  <l>Come neighbour why are you ſo coy,</l>
+                  <l>
+                     <hi>we are Beggers all a row.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Ione hath paund her band of Lawne,</l>
+                  <l>and Tom his fudling Cap,</l>
+                  <l>Ralph hath laid his Cloke to pawne,</l>
+                  <l>for to maintaine the Tap,</l>
+                  <l>The Ale-houſe thriueth beſt I ſée,</l>
+                  <l>this all the world doth know,</l>
+                  <l>So here good follow here's to thee,</l>
+                  <l>
+                     <hi>Beggers all a row.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>I haue another Teaſter yet,</l>
+                  <l>and cannot be content,</l>
+                  <l>I cannot reſt nor quiet ſit,</l>
+                  <l>till all my money be ſpent,</l>
+                  <l>Too much money makes men mad,</l>
+                  <l>the prouerb plaine doth ſhow,</l>
+                  <l>And want of mony makes men ſad,</l>
+                  <l>
+                     <hi>and Beggers all a row.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>The bloudy fight moues me to wrath,</l>
+                  <l>betwéne<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Dutch and Spaine,</l>
+                  <l>I gladl<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ould know the truth,</l>
+                  <l>who <gap reason="illegible" extent="2 words">
+                        <desc>〈◊◊〉</desc>
+                     </gap> fight did gaine,</l>
+                  <l>The D<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>tempted as its knowne,</l>
+                  <l>the S<gap reason="illegible" extent="6 letters">
+                        <desc>••••••</desc>
+                     </gap>rd's ouerthrowe,</l>
+                  <l>Now b<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f them may make their moane,</l>
+                  <l>
+                     <hi>w'ar<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ggers all a row.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>A Country man did ſell his Nagge,</l>
+                  <l>thrée Heafers, and a Bull,</l>
+                  <l>And brought to towne a Canuas bag,</l>
+                  <l>with writings filled full,</l>
+                  <l>But all the money that he had</l>
+                  <l>the Lawyer puld it too,</l>
+                  <l>Alaſſe poore man thy cauſe is bad,</l>
+                  <l>
+                     <hi>Beggers all a row.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Two men did paſſe their words of late</l>
+                  <l>for a Knaue as I did heare,</l>
+                  <l>They paid the debt, and broke their ſtate</l>
+                  <l>for he would not appeare,</l>
+                  <l>Let others take example then,</l>
+                  <l>leſt they themſelues ouerthrow,</l>
+                  <l>To day they may be gentlemen,</l>
+                  <l>
+                     <hi>then Beggers all a row.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>I that made this ſong of late,</l>
+                  <l>haue well obſerued the time,</l>
+                  <l>Ide rather liue in meane eſtate,</l>
+                  <l>then higher ſeeke to climbe,</l>
+                  <l>My money is my lackie-boy,</l>
+                  <l>I ſend him too and fro,</l>
+                  <l>Swéet content I doe inioy,</l>
+                  <l>
+                     <hi>with Beggers all a row.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>He that begges an almes of heauen,</l>
+                  <l>cannot complaine he's poore,</l>
+                  <l>His daily Bread, is daily giuen,</l>
+                  <l>what can he wiſh for more?</l>
+                  <l>Thus all are Beggers euery day,</l>
+                  <l>all both high and low,</l>
+                  <l>In this we may conclude and ſay,</l>
+                  <l>
+                     <hi>w<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>are Beggers all a row.</hi>
+                  </l>
+               </lg>
+            </div>
+            <closer>
+               <signed>Humfrey Crowch.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>inted <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y <hi>M. F.</hi> for <hi>R. Harper,</hi> and are to be ſold at the Bible and <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in Smithfield</p>
+         </div>
+      </back>
+   </text>
+</TEI>
